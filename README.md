@@ -45,7 +45,7 @@ plt.show()
 - **Purpose**: Line plots help in visualizing trends and patterns over time. For time series analysis, this is usually the first step, as it allows you to identify whether there are any obvious trends (increasing or decreasing patterns) and seasonality (repeating cycles).
 - **Insights**: From the line plot, you can tell whether the data has an upward or downward trend, and you may also detect periodic patterns if there’s any seasonality.
 
-![Dataset](https://github.com/PerceptiaAI/Production-Forecast-Time-series-Predictive-model-/blob/main/Images/dataset.png)
+![Dataset](https://github.com/PerceptiaAI/Production-Forecast-Time-series-Predictive-model/blob/main/Images/dataset.png)
 
 ### 2. Decomposition Plot
 
@@ -64,10 +64,10 @@ Decomposition allows you to understand the different factors influencing the tim
 **Insights:**  
 This breakdown is useful in identifying if the data has underlying trends or seasonality, which can aid in choosing the right forecasting models.
 
-![Decmposition](https://github.com/PerceptiaAI/Production-Forecast-Time-series-Predictive-model-/blob/main/Images/decompose%20data.png)
+![Decmposition](https://github.com/PerceptiaAI/Production-Forecast-Time-series-Predictive-model/blob/main/Images/decompose%20data.png)
 
 ## Forecast
 
-![Forecast](https://github.com/PerceptiaAI/Production-Forecast-Time-series-Predictive-model-/blob/main/Images/Forecast.png)
+![Forecast](https://github.com/PerceptiaAI/Production-Forecast-Time-series-Predictive-model/blob/main/Images/Forecast.png)
 
-![Predictions](https://github.com/PerceptiaAI/Production-Forecast-Time-series-Predictive-model-/blob/main/Images/Screenshot%202024-11-11%20011744.png)
+![Predictions](https://github.com/PerceptiaAI/Production-Forecast-Time-series-Predictive-model/blob/main/Images/Screenshot%202024-11-11%20011744.png)
